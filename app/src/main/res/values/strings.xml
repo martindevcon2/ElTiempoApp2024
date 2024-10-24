@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElTiempoApp2024</string>
+    <string name="API_Key">e530c9985e02ef30eba1d570b1f946f1</string>
+    <string name="city">city</string>
+    <string name="textview">textview</string>
+    <string name="button">button</string>
+    <string name="temperatura">temperatura</string>
+</resources>
